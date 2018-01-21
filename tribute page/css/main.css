@@ -1,0 +1,76 @@
+*{box-sizing:border-box;}
+
+body{
+  margin-top: 30px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  background-image: url("https://pixabay.com/get/ea35b90b28f5053ed1534705fb094197e171e0dc1eac104494f6c571aeedbdb9/background-3084014_1920.jpg");
+}
+
+.container{
+  max-width: 75%;
+}
+
+.jumbotron{
+/*   background-color:#DDF1BD; */
+/*   background-color: aliceblue; */
+  opacity: .90;
+  
+}
+
+#jumbo1{
+/*   background-color:papayawhip; */
+}
+
+h1 {
+  font-family: "Atomic Age";
+}
+
+h2{
+  margin-top: 10px;
+  font-size: 1.7em;
+  font-family: "Atomic Age";
+}
+
+h3{
+/*   background-color: red; */
+/*   display: block;   */
+  font-family: "Open Sans";
+  font-size: 1.5em;
+  text-align: center;
+}
+
+#bowie-pic{
+/*   max-width: 80%; */
+  margin-bottom: 10px;
+  border-style: inset;
+  border-width: 2px;
+  
+}
+
+#jumbo2{
+  background-color: ;
+}
+
+.timeline{
+  list-style-type: circle;
+}
+
+blockquote{
+  width: 90%;
+}
+
+#citation{
+  margin-top: 30px;
+}
+
+#footercol{
+/*   background-color: red; */
+/*   width: 90%; */
+  height: 20px;
+  font-family: monospace;
+  text-align: right;
+  color: saddlebrown;
+}
+
